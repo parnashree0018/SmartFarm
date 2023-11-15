@@ -1,1 +1,2 @@
-# SmartFarm
+# 
+this is a smart farming project
